@@ -1,6 +1,7 @@
 # Projet de théorie des langages
 pour compiler:
 >make
+
 pour executer
 >./eval expression
 
